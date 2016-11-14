@@ -37,6 +37,4 @@ make
 
 # How to use
 
-./HiC_DI_generator [path to the input f inp [path to the output file]
-
-
+./HiC_DI_generator [path to the input file] [path to the output file]
